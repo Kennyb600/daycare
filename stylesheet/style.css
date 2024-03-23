@@ -51,6 +51,10 @@ footer {
     
 }
 
+body{
+    width: 80%;
+    margin: 0 auto;
+}
 .learn-more-btn {
     display: inline-block;
     padding: 10px 20px;
